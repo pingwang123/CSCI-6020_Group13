@@ -1,5 +1,5 @@
-# DIP 6050
-Group Members:
+# 6020_Machine-Learning Homework 1
+##1. Group Members:##
 - Chittachone Bounphengsy
 - Luis Vazquezlazaro
 - Ping Wang
