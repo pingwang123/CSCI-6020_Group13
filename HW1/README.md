@@ -1,5 +1,5 @@
 # 6020_Machine-Learning Homework 1
-## Group Members:##
+## Group Members:
 - Arup Ghosh
 - Ping Wang
 ## Quick Start
