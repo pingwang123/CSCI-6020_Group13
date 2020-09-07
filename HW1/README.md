@@ -1,7 +1,7 @@
 # 6020_Machine-Learning Homework 1
 ## Group Members:
-- Arup Ghosh
-- Ping Wang
+- Arup Ghosh: ghosha20@students.ecu.edu
+- Ping Wang: wangp19@students.ecu.edu
 ## Quick Start
 - Clone the repository
 - Open " hw1-KNN.ipynb" file in Jupyter Notebook and run the code
