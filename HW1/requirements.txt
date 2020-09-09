@@ -1,5 +1,5 @@
 pandas
-Scikit-learn
+scikit_learn
 matplotlib
 
 
