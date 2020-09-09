@@ -13,4 +13,4 @@
 ![Model accuracy VS K](images/line-chart.png) 
 
 - **Best K?**
-
+- As in the above line chart, accuracy score increases from (0.9,0.97) to 1 as K reaches 6. The reason is that the more neighbors(>=6 in this case) a sample has, the more possible that higher number of "good neighbors"(belong to the same class as the sample does) than that of "bad neighbors" will be included and voting, such that there will be higher chance that the sample is clssified to the true class.
