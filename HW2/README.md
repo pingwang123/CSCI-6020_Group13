@@ -4,7 +4,7 @@
 - Ping Wang: wangp19@students.ecu.edu
 ## Quick Start
 - Clone the repository
-- Open " hw1-KNN.ipynb" file in Jupyter Notebook and run the code
+- Open " hw2-kmeans.ipynb" file under "HW2" folder in Jupyter Notebook and run the code
 ## Discussion about "K"
 - **Choose best k using elbow method:**
 
