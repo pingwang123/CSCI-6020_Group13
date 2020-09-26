@@ -11,8 +11,12 @@
 ![Choosing best K](kmeansk.png) 
 
 - **Best K?**
-As in the above line chart, K=3 works the best.
+  
+  As in the above line chart, K=3 works the best.
 - **Accuracy score for k=3**
-Accuracy score=
+   
+   Accuracy score=0.75
 
 - **Confusion matrix for k=3**
+
+ ![confusion matrix](confusion.png) 
