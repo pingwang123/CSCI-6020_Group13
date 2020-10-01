@@ -1,4 +1,4 @@
-# 6020_Machine-Learning Homework 1
+# 6020_Machine-Learning Homework 3
 ## Group Members:
 - Arup Ghosh: ghosha20@students.ecu.edu
 - Ping Wang: wangp19@students.ecu.edu
