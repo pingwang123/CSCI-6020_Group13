@@ -3,12 +3,12 @@
 - Arup Ghosh: ghosha20@students.ecu.edu
 - Ping Wang: wangp19@students.ecu.edu
 ## Results
-- **Lasso Regression**
-- Alpha: 0.991
-- Cross Validation Score: 0.76997
-- **Lasso Regression**
+### Ridge Regression
 - Alpha: 0.984
-- Cross Validation Score:0.76996
-- **Lasso regression is the best model in this case.**
+- Cross Validation Score: 0.76996
+### Lasso Regression**
+- Alpha: 0.991
+- Cross Validation Score:0.76997
+### Lasso regression is the best model in this case.
    
    
