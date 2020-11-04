@@ -3,9 +3,9 @@
 - Arup Ghosh: ghosha20@students.ecu.edu
 - Ping Wang: wangp19@students.ecu.edu
 ## Results
-- **Plot 1**
-- (y-x)--x plot
- ![plot1](plot1.png)
-- **Plot 2**
-- Regression line
- ![plot1](plot2.png)
+- **Hyperparameter used:**
+- n_estimators: 40
+- **Accuracy**
+- Accuracy: 0.934979040521658
+- Accuracy/number of features : 0.467489520260829
+
