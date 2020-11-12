@@ -1,4 +1,4 @@
-# 6020_Machine-Learning Homework 3
+# 6020_Machine-Learning Homework 6
 ## Group Members:
 - Arup Ghosh: ghosha20@students.ecu.edu
 - Ping Wang: wangp19@students.ecu.edu
@@ -8,7 +8,7 @@
 - **Radial kernal:**
 - C= 426
 - **Polynimial kernal:**
-- C= 421
+- C= 471
 
 ## Accuracy scores
 - **Linear kernal:** 0.919
