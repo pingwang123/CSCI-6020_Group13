@@ -2,14 +2,18 @@
 ## Group Members:
 - Arup Ghosh: ghosha20@students.ecu.edu
 - Ping Wang: wangp19@students.ecu.edu
-## Results
-- **Hyperparameter used:**
+## Parameters
+- **Linear kernal:**
+- C= 567
+- **Radial kernal:**
+- C= 426
+- **Polynimial kernal:**
+- C= 421
 
-n_estimators: 40
+## Accuracy scores
+- **Linear kernal:** 0.919
+- **Radial kernal:** 0.969
+- **Polynimial kernal:** 0.952
 
-- **Accuracy**
 
-Accuracy: 0.93497904052165
-
-Accuracy/number of features : 0.467489520260829
 
