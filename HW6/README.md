@@ -4,11 +4,11 @@
 - Ping Wang: wangp19@students.ecu.edu
 ## Parameters
 - **Linear kernal:**
-- C= 567
+- C= 725
 - **Radial kernal:**
-- C= 426
+- C= 902
 - **Polynimial kernal:**
-- C= 471
+- C= 50
 
 ## Accuracy scores
 - **Linear kernal:** 0.919
